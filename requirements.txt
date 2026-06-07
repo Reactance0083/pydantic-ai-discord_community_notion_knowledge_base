@@ -1,0 +1,15 @@
+fastapi==0.*
+uvicorn==0.*
+pydantic-ai==0.*
+httpx==0.*
+python-dotenv==1.*
+anthropic==0.*
+pydantic==2.*
+notion-client==2.*
+discord.py==2.*
+aiohttp==3.*
+python-multipart==0.*
+starlette==0.*
+anyio==4.*
+tenacity==8.*
+loguru==0.*
